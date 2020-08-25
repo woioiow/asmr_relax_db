@@ -1,8 +1,55 @@
 <db>
 
-    <category id="1" name="asmr" icon="" action="action_sound" >
-        <sound id="4" name="bgm 4" url="http://moioio.com/asmr_relax_db/sound/music0.mp3" volume="50" icon="http://moioio.com/asmr_relax_db/icon/music0.jpg" md5="d3b5a4216852e73b2c71a0d7259d9466" gold="20" />
-        <sound id="2" name="asmr 2" url="assets://sound/asmr1.aac" volume="50" icon="assets://icons/asmr1.jpg" md5="b82fbb4e6563802b0ac07806a6ddbf7c" gold="30" />
+    <favorite id="666"  />
+
+    <category id="1" name="asmr" icon="" action="action_sound" select="true" >
+        <sound id="1" name="asmr 1" url="assets://sound/asmr0.aac" volume="50" icon="assets://icons/asmr0.jpg" md5="10d2c1575bf0f769a0c1d0f2599fbfa3" gold="0" />
+        <sound id="2" name="asmr 2" url="assets://sound/asmr1.aac" volume="50" icon="assets://icons/asmr1.jpg" md5="b82fbb4e6563802b0ac07806a6ddbf7c" gold="0" />
+        <sound id="3" name="asmr 3" url="assets://sound/asmr2.aac" volume="50" icon="assets://icons/asmr2.jpg" md5="418173320edddb13d7c80297aaab32a" gold="0" />
+        <sound id="4" name="asmr 4" url="assets://sound/asmr3.aac" volume="50" icon="assets://icons/asmr3.jpg" md5="4f77538c1c6159dc04255ae2cb8e6c09" gold="0" />
+    </category>
+
+    <category id="2" name="rain" icon="" action="action_sound" >
+        <sound id="1" name="rain 1" url="assets://sound/rain0.aac" volume="50" icon="assets://icons/rain0.jpg" md5="11659136ea3e40d282f4327fed220b31" gold="0" />
+        <sound id="2" name="rain 2" url="assets://sound/rain1.aac" volume="50" icon="assets://icons/rain1.jpg" md5="3b65ce6e9b301c18b27da859e5462f61" gold="0" />
+        <sound id="3" name="rain 3" url="assets://sound/rain2.aac" volume="50" icon="assets://icons/rain2.jpg" md5="8fc8afc73e8cd60e243311b17edd5043" gold="0" />
+        <sound id="4" name="rain 4" url="assets://sound/rain3.aac" volume="50" icon="assets://icons/rain3.jpg" md5="5e5e8ded340e5d80b5551ad39217c314" gold="0" />
+    </category>
+
+
+
+
+    <category id="3" name="nature" icon="" action="action_sound" >
+
+        <sound id="1" name="water 1" url="assets://sound/water0.aac" volume="50" icon="assets://icons/water0.jpg" md5="9ab1e6c57af28b1f38dd3b6fc5385cc0" gold="" />
+        <sound id="2" name="water 2" url="assets://sound/water1.aac" volume="50" icon="assets://icons/water1.jpg" md5="26c7768338973ceaab4a4c4937a3de97" gold="" />
+        <sound id="3" name="water 3" url="assets://sound/water2.aac" volume="50" icon="assets://icons/water2.jpg" md5="887f5b4a13e23cfcc010ff2a9ced27e6" gold="" />
+
+        <sound id="1" name="fire 1" url="assets://sound/fire0.aac" volume="50" icon="assets://icons/fire0.jpg" md5="4611b9bb5fc7145c153641005969e1b2" gold="" />
+        <sound id="2" name="fire 2" url="assets://sound/fire1.aac" volume="50" icon="assets://icons/fire1.jpg" md5="b53e71d26229abf0489a189f996fb6ce" gold="" />
+        <sound id="3" name="fire 3" url="assets://sound/fire2.aac" volume="50" icon="assets://icons/fire2.jpg" md5="50177cbe947f1bb8d88250ea9b7475ff" gold="" />
+
+        <sound id="1" name="wind 1" url="assets://sound/wind0.aac" volume="50" icon="assets://icons/wind0.jpg" md5="c0bd00b95ecf18a4477c7abf6fa1c6f3" gold="" />
+        <sound id="2" name="wind 2" url="assets://sound/wind1.aac" volume="50" icon="assets://icons/wind1.jpg" md5="210105b727593c37f79d5833613ae75a" gold="" />
+        <sound id="3" name="wind 3" url="assets://sound/wind2.aac" volume="50" icon="assets://icons/wind2.jpg" md5="2a114b4243fb1d6c7ac9e565ceb2315a" gold="" />
+
+        <sound id="1" name="chirping 1" url="assets://sound/chirping0.aac" volume="50" icon="assets://icons/chirping0.jpg" md5="cf569d6b0cc779204e857d8708d11b3d" gold="" />
+        <sound id="2" name="chirping 2" url="assets://sound/chirping1.aac" volume="50" icon="assets://icons/chirping1.jpg" md5="a72011390926573c746fd0bf10b4134c" gold="" />
+        <sound id="3" name="chirping 3" url="assets://sound/chirping2.aac" volume="50" icon="assets://icons/chirping2.jpg" md5="f7dd69a978b05e7d251c6c00df6d1375" gold="" />
+
+    </category>
+
+    <category id="4" name="instrument" icon="" action="action_sound" >
+        <sound id="1" name="bowl 1" url="assets://sound/bowl0.aac" volume="50" icon="assets://icons/bowl0.jpg" md5="811fcba65ebdafd2c2c96ac5314804d6" gold="" />
+        <sound id="2" name="bowl 2" url="assets://sound/bowl1.aac" volume="50" icon="assets://icons/bowl1.jpg" md5="bcba20bed07cc79510fdea409be90c98" gold="" />
+        <sound id="3" name="bowl 3" url="assets://sound/bowl2.aac" volume="50" icon="assets://icons/bowl2.jpg" md5="873ef77203afeb07b57815aa2dda2a14" gold="" />
+    </category>
+
+
+    <category id="5" name="bgm" icon="" action="action_sound" >
+        <sound id="1" name="bgm 1" url="assets://sound/music0.aac" volume="50" icon="assets://icons/music0.jpg" md5="233805cb32407581f8ff574c9bce446e" gold="" />
+        <sound id="2" name="bgm 2" url="assets://sound/music1.aac" volume="50" icon="assets://icons/music1.jpg" md5="8d6e9a64bf36ca9f52154c42a3b14d75" gold="" />
+        <sound id="3" name="bgm 3" url="assets://sound/music2.aac" volume="50" icon="assets://icons/music2.jpg" md5="5529ee43a8a2dac47866805130c0817d" gold="" />
     </category>
 
 
