@@ -51,7 +51,7 @@
         <sound id="1" name="bgm 1" url="assets://sound/music0.aac" volume="50" icon="assets://icons/music0.jpg" md5="233805cb32407581f8ff574c9bce446e" gold="" />
         <sound id="2" name="bgm 2" url="assets://sound/music1.aac" volume="50" icon="assets://icons/music1.jpg" md5="8d6e9a64bf36ca9f52154c42a3b14d75" gold="" />
         <sound id="3" name="bgm 3" url="assets://sound/music2.aac" volume="50" icon="assets://icons/music2.jpg" md5="5529ee43a8a2dac47866805130c0817d" gold="" />
-        <sound id="4" name="bgm 4" url="http://moioio.com/asmr_relax_db/sound/bgm4.aac" volume="50" icon="http://moioio.com/asmr_relax_db/icon/bgm4.jpg" md5="f03b5c8d74788e425ab598c4023c561f" gold="99" />
+        <sound id="4" name="bgm 4" url="http://moioio.com/asmr_relax_db/sound/bgm4.aac" volume="50" icon="http://moioio.com/asmr_relax_db/icon/bgm4.jpg" md5="f03b5c8d74788e425ab598c4023c561f" gold="59" />
     </category>
 
 
