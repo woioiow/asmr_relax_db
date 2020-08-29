@@ -7,6 +7,8 @@
         <sound id="2" name="asmr 2" url="assets://sound/asmr1.aac" volume="50" icon="assets://icons/asmr1.jpg" md5="b82fbb4e6563802b0ac07806a6ddbf7c" gold="0" />
         <sound id="3" name="asmr 3" url="assets://sound/asmr2.aac" volume="50" icon="assets://icons/asmr2.jpg" md5="418173320edddb13d7c80297aaab32a" gold="0" />
         <sound id="4" name="asmr 4" url="assets://sound/asmr3.aac" volume="50" icon="assets://icons/asmr3.jpg" md5="4f77538c1c6159dc04255ae2cb8e6c09" gold="0" />
+        <sound id="5" name="asmr 5" url="http://moioio.com/asmr_relax_db/sound/asmr5.acc" volume="50" icon="http://moioio.com/asmr_relax_db/icon/asmr5.jpg" md5="53c49e92c2b05ce51f76d699fc602902" gold="99" />
+
     </category>
 
     <category id="2" name="rain" icon="" action="action_sound" >
