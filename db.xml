@@ -17,6 +17,7 @@
         <sound id="2" name="rain 2" url="assets://sound/rain1.aac" volume="50" icon="assets://icons/rain1.jpg" md5="3b65ce6e9b301c18b27da859e5462f61" gold="0" />
         <sound id="3" name="rain 3" url="assets://sound/rain2.aac" volume="50" icon="assets://icons/rain2.jpg" md5="8fc8afc73e8cd60e243311b17edd5043" gold="0" />
         <sound id="4" name="rain 4" url="assets://sound/rain3.aac" volume="50" icon="assets://icons/rain3.jpg" md5="5e5e8ded340e5d80b5551ad39217c314" gold="0" />
+        <sound id="5" name="rain 5" url="http://moioio.com/asmr_relax_db/sound/rain5.aac" volume="50" icon="http://moioio.com/asmr_relax_db/icon/rain5.jpg" md5="e97e19e2f23e6ceb10b0bdab31f3017f" gold="0" />
     </category>
 
 
