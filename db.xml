@@ -11,6 +11,7 @@
         <sound id="6" name="asmr 6" url="http://moioio.com/asmr_relax_db/sound/asmr6.aac" volume="50" icon="http://moioio.com/asmr_relax_db/icon/asmr6.jpg" md5="dfef13f96ed71cfd0cdc4e07cd8b8994" gold="0" />
         <sound id="7" name="asmr 7" url="http://moioio.com/asmr_relax_db/sound/asmr7.aac" volume="50" icon="http://moioio.com/asmr_relax_db/icon/asmr7.jpg" md5="2699c0d38a86ff7bfd8bc2cfce004f90" gold="0" />
         <sound id="8" name="asmr 8" url="http://moioio.com/asmr_relax_db/sound/asmr8.aac" volume="50" icon="http://moioio.com/asmr_relax_db/icon/asmr8.jpg" md5="3c8adbc1a8dd66579a6fe77b1678e3bc" gold="0" />
+        <sound id="9" name="asmr 9" url="http://moioio.com/asmr_relax_db/sound/asmr9.aac" volume="50" icon="http://moioio.com/asmr_relax_db/icon/asmr9.jpg" md5="d651068c77a2de509f13fb85ea2742ea" gold="0" />
     </category>
 
     <category id="2" name="rain" icon="" action="action_sound" >
