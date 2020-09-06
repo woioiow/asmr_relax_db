@@ -48,8 +48,6 @@
         <sound id="1" name="bowl 1" url="assets://sound/bowl0.aac" volume="50" icon="assets://icons/bowl0.jpg" md5="811fcba65ebdafd2c2c96ac5314804d6" gold="" />
         <sound id="2" name="bowl 2" url="assets://sound/bowl1.aac" volume="50" icon="assets://icons/bowl1.jpg" md5="bcba20bed07cc79510fdea409be90c98" gold="" />
         <sound id="3" name="bowl 3" url="assets://sound/bowl2.aac" volume="50" icon="assets://icons/bowl2.jpg" md5="873ef77203afeb07b57815aa2dda2a14" gold="" />
-        <sound id="4" name="khoomei" url="assets://sound/instrument4.aac" volume="50" icon="http://moioio.com/asmr_relax_db/icon/instrument4.jpg" md5="b514c6d90e7c37780ab0b59fad1afb5e" gold="" />
-        <sound id="5" name="rainstick" url="assets://sound/instrument5.aac" volume="50" icon="http://moioio.com/asmr_relax_db/icon/instrument5.jpg" md5="cd7bdcf04f32b9734c10daabef4e0599" gold="" />
     </category>
 
 
